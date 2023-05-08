@@ -12,4 +12,4 @@ Input Managere - https://www.youtube.com/watch?v=atCOd4o7tG4 && https://www.yout
 Money Systemt - https://www.youtube.com/watch?v=TkracqK7QvY
 UI - https://www.youtube.com/watch?v=lF26yGJbsQk
 ●Optionally, a link to a playable WebGL build of your game, hosted on GitHub PagesClick
-Working on
+Working on Kinda fucked
